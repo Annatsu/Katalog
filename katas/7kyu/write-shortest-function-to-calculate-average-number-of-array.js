@@ -1,0 +1,1 @@
+var avg=a=>a.reduce((_,v)=>_+v,0)/a.length;
