@@ -1,3 +1,6 @@
+// Kata link: https://www.codewars.com/kata/consecutive-strings
+
+
 #include <string>
 #include <vector>
 
